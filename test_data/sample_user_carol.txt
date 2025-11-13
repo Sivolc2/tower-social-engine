@@ -1,0 +1,41 @@
+Profile: Dr. Carol Martinez
+
+Dr. Carol Martinez is a computational biologist and data scientist specializing in genomics research. She holds a PhD in Bioinformatics from Stanford University, where her dissertation focused on developing machine learning algorithms to predict protein structures from genomic sequences.
+
+Professional Background:
+Carol's career has been at the intersection of biology, computer science, and medicine. After completing her PhD, she did a postdoc at UCSF working on cancer genomics, where she developed computational pipelines to analyze tumor DNA sequences and identify potential drug targets. This work resulted in several publications in high-impact journals like Nature and Cell.
+
+She currently works as a Principal Scientist at BioGenix, a biotech company developing personalized medicine treatments. Her team builds the computational infrastructure for analyzing patient genomic data at scale. They process thousands of whole genome sequences and use AI models to identify genetic variants associated with disease risk and drug response.
+
+Technical Skills:
+- Expert in Python, R, and Julia for scientific computing
+- Deep knowledge of bioinformatics tools (BWA, GATK, SAMtools, etc.)
+- Machine learning frameworks (scikit-learn, TensorFlow, PyTorch)
+- High-performance computing and cloud infrastructure (AWS, Google Cloud)
+- Statistical analysis and experimental design
+- Next-generation sequencing data analysis
+- Database management (SQL, NoSQL, graph databases)
+
+Research Interests:
+Carol is particularly fascinated by the applications of deep learning to biological problems. She believes we're in a golden age where the combination of large biological datasets and powerful ML models will lead to major breakthroughs in understanding diseases and developing treatments.
+
+She's currently exploring multi-omics integration - combining genomic, transcriptomic, proteomic, and metabolomic data to get a holistic view of biological systems. She's also interested in how AI can help with drug discovery and reduce the time and cost of bringing new medications to market.
+
+Teaching & Mentorship:
+Despite being in industry, Carol maintains strong ties to academia. She's an adjunct professor at UC Berkeley, where she teaches a graduate course on computational genomics each spring. She loves teaching and finds that it keeps her sharp and connected to the latest research.
+
+She's also very active in mentoring, particularly focused on increasing diversity in STEM fields. She mentors students from underrepresented backgrounds through several organizations and has helped many of them successfully apply to graduate programs and land jobs in biotech.
+
+Personal Interests:
+Outside of science, Carol is an ultramarathon runner. She's completed several 50-mile races and is training for her first 100-miler. She finds that the mental toughness required for ultra running translates well to tackling difficult research problems - it's all about persistence and not giving up when things get hard.
+
+Carol is also passionate about science communication. She writes a blog where she explains complex biological concepts in accessible language and discusses the ethics of genomics and personalized medicine. She's been invited to give TEDx talks and appears occasionally on podcasts discussing the future of healthcare.
+
+She's fluent in English, Spanish, and Portuguese, and makes an effort to support science education in Latin American countries. She's organized workshops and given lectures in Mexico, Brazil, and Colombia.
+
+Vision & Goals:
+Carol's long-term vision is to see computational biology become a standard part of medical practice. She imagines a future where every patient has their genome sequenced, and AI systems help doctors make personalized treatment decisions based on each individual's unique genetic makeup.
+
+She's also interested in the ethical implications of this technology - ensuring equitable access to genomic medicine, protecting genetic privacy, and preventing discrimination based on genetic information. She believes scientists have a responsibility to not just develop the technology, but also help shape policy around its use.
+
+In the next few years, Carol hopes to transition into a role with more strategic influence, possibly as a Chief Scientific Officer or starting her own biotech company focused on AI-driven drug discovery.

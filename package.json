@@ -22,6 +22,8 @@
     "dev:clean": "pnpm reset && pnpm dev",
     "setup-env": "./repo_src/scripts/setup-env.sh",
     "setup-project": "pnpm install && python -m venv .venv && . .venv/bin/activate && pip install -r repo_src/backend/requirements.txt && pnpm setup-env",
+    "ingest-user": "python repo_src/scripts/ingest_user.py",
+    "seed-users": "python repo_src/scripts/seed_test_users.py",
     "ci": "pnpm lint && pnpm typecheck && pnpm test",
     "docs:serve": "mkdocs serve",
     "docs:build": "mkdocs build"

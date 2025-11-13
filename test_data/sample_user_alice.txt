@@ -1,0 +1,33 @@
+Interview Transcript: Alice Johnson
+
+Interviewer: Tell me about yourself and your background.
+
+Alice: Sure! I'm Alice Johnson, and I've been working in the tech industry for about 8 years now. I started out as a software engineer right out of college, where I studied Computer Science at MIT. My passion has always been around building scalable systems and solving complex distributed computing problems.
+
+Interviewer: What kind of projects have you worked on?
+
+Alice: I've worked on quite a variety. Early in my career, I was at a fintech startup where I built microservices for payment processing - we handled millions of transactions per day. That taught me a lot about reliability and fault tolerance. Then I moved to a larger company where I led the development of a real-time analytics platform. We used Kafka, Apache Spark, and built everything on Kubernetes.
+
+More recently, I've been consulting and focusing on cloud architecture. I help companies migrate legacy systems to AWS and GCP, and I'm particularly interested in serverless architectures and how we can optimize costs while maintaining performance.
+
+Interviewer: What technologies do you work with most?
+
+Alice: My main languages are Python and Go. I love Python for data processing and machine learning pipelines, and Go for high-performance backend services. I'm also very comfortable with TypeScript/Node.js for full-stack work. On the infrastructure side, I'm certified in AWS and have extensive experience with Docker, Kubernetes, Terraform, and all the usual DevOps tools.
+
+Interviewer: What are you interested in outside of work?
+
+Alice: I'm really passionate about open source. I maintain a couple of small Python libraries and contribute to larger projects when I can. I also love mentoring - I volunteer with Code2040 to help underrepresented minorities break into tech.
+
+Outside of tech, I'm an avid rock climber. I try to get outdoors every weekend, and I've climbed in Yosemite, Red Rocks, and even did some alpine climbing in the Dolomites last summer. I find that climbing helps me think through technical problems in a different way - there's a lot of problem-solving involved in figuring out a route.
+
+I also enjoy reading science fiction and playing strategy board games. I'm part of a weekly game night group where we play everything from Settlers of Catan to more complex games like Twilight Imperium.
+
+Interviewer: What are your goals for the future?
+
+Alice: Career-wise, I'm really interested in the intersection of infrastructure and machine learning. I think there's a lot of interesting work to be done in building platforms that make it easier to deploy and scale ML models in production. MLOps is still in its early stages, and I'd love to contribute to that space.
+
+Long term, I might want to start my own company. I have a few ideas around developer tools and observability that I've been tinkering with. But for now, I'm focused on gaining more experience and building my network.
+
+Interviewer: Anything else you'd like to share?
+
+Alice: I think it's important to mention that I'm a big advocate for work-life balance and mental health in tech. The industry can be pretty demanding, and I've seen too many brilliant people burn out. I try to set boundaries, take my vacation time, and encourage my teams to do the same. A sustainable pace is better for everyone in the long run.

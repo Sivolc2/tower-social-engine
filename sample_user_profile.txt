@@ -1,0 +1,30 @@
+Interview Transcript: Sarah Chen
+================================
+
+Interviewer: Thanks for joining us today, Sarah. Can you tell us a bit about yourself?
+
+Sarah: Sure! I'm Sarah Chen, and I'm a full-stack software engineer currently based in San Francisco. I've been in the tech industry for about 7 years now, and I absolutely love building products that make a real difference in people's lives.
+
+Interviewer: What's your background?
+
+Sarah: I studied Computer Science at MIT, graduating in 2017. During my time there, I got really interested in distributed systems and machine learning. After graduation, I joined a startup called DataFlow where I worked on building scalable data pipelines. That experience really shaped how I think about system design.
+
+Interviewer: What are your main technical skills?
+
+Sarah: I'm most comfortable with Python and JavaScript/TypeScript. On the backend, I've worked extensively with FastAPI, Django, and Node.js. For databases, I'm experienced with PostgreSQL, MongoDB, and Redis. I've also done a fair amount of work with cloud infrastructure - primarily AWS and GCP. Recently, I've been diving deep into machine learning and AI, particularly working with LLMs and vector databases for RAG applications.
+
+Interviewer: What kind of projects have you worked on?
+
+Sarah: At DataFlow, I built a real-time data processing system that handled millions of events per day. More recently at my current company, I led the development of an AI-powered customer support platform that uses RAG to provide contextual answers. I'm also passionate about open source - I maintain a Python library for working with semantic search that has about 2,000 stars on GitHub.
+
+Interviewer: What are you interested in outside of work?
+
+Sarah: I'm really into rock climbing - I try to get out to the gym or outdoors at least twice a week. I also love cooking, especially experimenting with different cuisines. Lately I've been trying to perfect my ramen recipe. And I'm always reading - currently working through some sci-fi novels and technical books on system design.
+
+Interviewer: What are you looking for professionally?
+
+Sarah: I'm really interested in joining a team that's building something meaningful, especially in the AI/ML space. I want to work on challenging technical problems with smart people who are collaborative and care about doing quality work. I value work-life balance and companies that support continuous learning.
+
+Interviewer: Anything else you'd like to add?
+
+Sarah: I think I thrive in environments where I can wear multiple hats - I enjoy mentoring junior engineers, contributing to product decisions, and sometimes even helping with customer conversations. I believe the best solutions come from understanding the full context of a problem, not just the technical side.
